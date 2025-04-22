@@ -1,0 +1,19 @@
+.side-item{
+    border-bottom: #b5a06d solid 4px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    text-decoration: none;
+    font-size: large;
+    margin-bottom: 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.side-item:hover{
+    transform: scale(1.05);
+    border-bottom: #662b1d solid 4px;
+    color: white;
+}
+
+.sidebar {
+    background-color: #362800;
+}
